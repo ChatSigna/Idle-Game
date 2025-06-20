@@ -1,6 +1,6 @@
 Let's make a game!
-  name:Chocolate Factory
-  by:Chatsigna
-  desc: Make as many of liters of chocolate to satisified the World and EVEN the UNIVERSE!
-  created:20/06/2025
-  version:0.0
+    name:Chocolate Factory
+    by:Chatsigna
+    desc: Make as many of liters of chocolate to satisified the World and EVEN the UNIVERSE!
+    created:20/06/2025
+    version:0.0
