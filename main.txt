@@ -3,7 +3,7 @@ Let's make a game!
     by:Chatsigna
     desc: Make as many of liters of chocolate to satisified the World and EVEN the UNIVERSE!
     created:20/06/2025
-    version:0.0.2
+    version:0.0.3
 
 CSS
 #game.on 
@@ -14,3 +14,12 @@ CSS
 
 Settings
     background:https://file.garden/aFTXNMtUTzlpJiXH/images.jpg
+    stylesheet:stuff/bigBlue.css
+    no particles
+    no bulk particles
+
+Layout
+  use default
+  *achievs
+    in:main
+    contains:Achievements
